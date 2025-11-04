@@ -7,4 +7,4 @@ Reference:
 
 SPARK: in-silico simulations for benchmarking nascent RNA sequencing experiments
 
-Ezequiel Calvo-Roitberg1, Jesse W. Lehman1, Edric Tam2, Shaimae Elhajjajy4, Barbara E. Engelhardt2,3, Athma A. Pai1
+Ezequiel Calvo-Roitberg, Jesse W. Lehman, Edric Tam, Shaimae Elhajjajy, Barbara E. Engelhardt, Athma A. Pai
